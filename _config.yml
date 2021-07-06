@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
+
+# Setup
+title:            Lucas Lehnert
+tagline:          "Personal Website"
+description:      "Postdoctoral Researcher<br/>Mila - Quebec AI Institute<br/>Département d’informatique et Recherche Opérationnelle (DIRO)<br/>Université de Montréal"
+url:              http://lucaslehnert.github.io/testsite
+baseurl:          /testsite/
+
+paginate:         3
+
+email: lucas.lehnert@mila.quebec
+linkedin: https://www.linkedin.com/pub/lucas-lehnert/8b/413/a
+github: https://github.com/lucaslehnert
