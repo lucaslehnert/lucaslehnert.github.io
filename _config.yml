@@ -11,12 +11,11 @@ plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
 # Setup
 title:            Lucas Lehnert
 tagline:          "Personal Website"
-description:      "Postdoctoral Researcher<br/>Mila - Quebec AI Institute<br/>Département d’informatique et Recherche Opérationnelle (DIRO)<br/>Université de Montréal"
+description:      "Postdoctoral Researcher<br/>Meta AI, FAIR"
 url:              http://lucaslehnert.github.io
 baseurl:          /
 
 paginate:         3
 
-email: lucas.lehnert@mila.quebec
 linkedin: https://www.linkedin.com/in/lucaslehnert
 github: https://github.com/lucaslehnert
