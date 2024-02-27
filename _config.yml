@@ -11,7 +11,7 @@ plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
 # Setup
 title:            Lucas Lehnert
 tagline:          "Personal Website"
-description:      "Postdoctoral Researcher<br/>Meta AI, FAIR"
+description:      "Postdoctoral Researcher<br/>FAIR at Meta"
 url:              http://lucaslehnert.github.io
 baseurl:          /
 
