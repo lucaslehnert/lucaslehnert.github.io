@@ -27,7 +27,7 @@
 
 .publication .publication-ref {
     float: left;
-    max-width: 750px;
+    max-width: 720px;
 }
 
 .section .h-line {
@@ -35,4 +35,4 @@
     width: 100%;
     height: 0%;
     border-top: 1px solid;
-} d
+}
